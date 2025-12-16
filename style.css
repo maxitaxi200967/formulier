@@ -66,15 +66,18 @@ body {
 }
 
 .form_text_tips_en_tops {
-    height: 100px;
-    width: 600px;
     border-radius: 5px;
-    border-color: color white;
 }
 
 .form_text_tips_en_tops {
     border: solid white;
 }
+
+.form_verzend{
+    margin-top: 50px;
+}
+
+
 
 
 
